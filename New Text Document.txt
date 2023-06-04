@@ -1,0 +1,49 @@
+Encapsulation:
+
+   Encapsulation in Java refers to Integrating data (variables) and Code (methods) into Single Unit.
+   Encapsulation in Java is a process of wrapping code and data together into a single unit,
+ for example, a capsule which is mixed of several medicines.
+
+Constructor :
+
+   A Constructor in Java is a special method that is used to Initialize the Objects. 
+The Constructor is called When an Object of a class is created..
+   In Java, Constructor is used to create the instance of the class.
+
+Rules in Constructor :
+   1. Constructor name should be same as Class name
+   2. It has no reture type 
+   3. A Java Constructor cannot be abstract, static, final, and synchronized.	
+
+Java Variables:
+
+Variables are containers for storing data values.
+
+In Java, there are different types of variables, for example:
+
+String  - stores text, such as "Hello". String values are surrounded by double quotes
+int     - stores integers (whole numbers), without decimals, such as 123 or -123
+float   - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char    - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+boolean - stores values with two states: true or false
+
+Types :
+  
+  Local Variable - Declared inside the Method 
+public void Student {
+   int a=10;
+}
+
+  Instance or class Variable - Declared Inside the Class and outside the method. to call the instance varible within the class everywhere.
+         public class Employee{
+           int a=10; // Instance Variable
+         public void details{
+}
+
+
+  Static Variable - Declared Inside the Class and outside the method. To call the static variable inside class and also outside the class eveywhere.
+     public class Employee{
+          Static int a=10; // Static Variable
+         public void details{
+}
+

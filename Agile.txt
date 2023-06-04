@@ -1,0 +1,19 @@
+Agile :
+    Agile is an Iterative approach to project management and Sofware developments that helps
+ teams to deliver values to the customers faster an with fewer headacches
+
+
+SDLC PHASES :
+
+1. Requirement Gathering and Analysis
+2. Design
+3. Devlopment
+4. Testing ----> STLC
+5. Deployement
+6. Operation and Maintanance
+
+
+Agile Ceremony or Agile Artifacts :
+
+Product Blacklog
+Sprint  

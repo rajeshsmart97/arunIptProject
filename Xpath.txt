@@ -1,0 +1,35 @@
+X Path - Xml Path language
+
+Syntax: 
+   //tagname[@attributename ='attribute value']
+
+   By Instead of tagname, we use * also
+
+Xpath using text:
+   //tagname[text() ='visbleTextValue']
+
+Contains Using text;
+   //tagname[contains(text(),'partiall text')]
+
+Contains using Attributes(single);
+   //tagname[contains(@attributename,'attributeValue')]
+
+Contains using Multiple Attibutes :
+   //tagname[@attributename1='value'][@attributevalue2='value']
+
+
+CSS Selector - Cascading Style Sheet
+
+css by Id : (#)
+     tagName#id
+css by name : (.)
+     tagName.class
+
+
+
+
+
+
+
+
+

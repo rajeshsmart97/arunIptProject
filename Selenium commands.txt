@@ -1,0 +1,31 @@
+ScreenShots :
+
+    TakesScreenshot tk = (TakesScreenshot) driver;
+    File sourceFile =  tk.getScreenshotAs(OutputType.File); // Capture File
+    File targetFile = new File ("Path of the File")
+    FileUtils.copyFile(sourceFile, newFile("c:\\tmp\\k2.png"));
+
+Waits :
+
+ Implicity Wait
+ driver.manage().timeouts().implicityWait(20, TimeUnit.SECONDS);
+
+ Explixity Wait :
+ Thread.sleep(3000);
+
+
+Select :
+
+  Select slct = new Select(WebElement);
+  slct.selectByIndex(2);
+  slct.selectByValue("attribute Value");
+  slctByVisibleText("text");
+
+Actions :
+
+  Actions act = new Actions(driver);
+  act.moveToElement(element).build().perform();
+
+
+
+

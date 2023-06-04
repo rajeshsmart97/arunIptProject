@@ -1,0 +1,20 @@
+  Hi I am Rajesh working as automation test engineer in Perficient India Pvt Ltd
+
+  I have 4.8 yrs of Experience in Testing and I have worked in two different projects namely TheRange which is an Ecommerce project, & lakeland Bank which is in UK and its completely banking Domain..
+
+  I have Ecxperience in both SDLC & STLC and I have good Knowledge in Selenium WebDriver with core Java and I have worked in BDD Cucumber and TestNG FrameWork.
+
+  I am Using Maven as Build Management and Git as version Control Tools used code management..
+
+  Using Jira for Defect Management and Testcase management..
+
+  I have worked in Agile with Scrum metholody, In Agile i will be actively participating in 
+
+ 	1.Daily StandUp 
+      2.Scrum Meeting (Discuss about Sprint)
+	3.Sprint Retrospective      
+
+ And I have also done Api Testing Using Postman tool..
+
+
+

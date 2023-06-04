@@ -1,0 +1,25 @@
+Topics to be remember
+
+Oops Concepts
+
+ Abstraction 
+ Polymorphism
+ constructor (In Pom class, we using constructor)
+ Variable (Pom class & Base Class)
+ Control Statement
+ Exception Handling
+
+Framework
+
+DDD - Data Driven Development
+      
+      Base Class -- 3 Days
+      POM Class  -- 2 Days
+
+BDD - Behavioural Data Driven
+
+      Cucumber Framework ---- 1.2 Weeks
+
+TDD - Test Driven Development
+
+      TestNG --- 1 Weeks

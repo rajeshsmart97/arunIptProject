@@ -1,0 +1,32 @@
+String :
+
+ 1. https://www.swiggy.com/"
+
+to check word in swiggy
+
+After that change Zomato instead of swiggy, again navigate zomato.com using String
+
+======================
+
+
+2. Take Java Online compilier
+ 
+String = Use this editor to write, compile and run your java code online (To count word)
+Then
+Write a program to count number of words present in the given string and also sort the string words in ascending order.
+
+3. Reverse Program : using Builder inbuilt functions and logical
+
+4. == , equals program
+
+5. Reverse Program - Word Reverse, Sentence reverse with original place, In sentence first word remain constant remaining words will change..
+
+
+=====================
+
+
+Selenium :
+
+1. get and navigate
+2. isDisplayed
+3. close ans quit
