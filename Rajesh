@@ -1,0 +1,8 @@
+Trying Git Hub Pull 
+
+try {
+ int i = 10/0; 
+}catch(Arithmetic Exceptio e)
+{
+   System.out.println("Number not divisible by Zero");
+}
